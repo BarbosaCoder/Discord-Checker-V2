@@ -1,46 +1,46 @@
 <h1 align="center">🚀 Discord Checker - Premium</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-Finalizado-blue?style=for-the-badge&logo=php" />
-  <img src="https://img.shields.io/badge/API-Proxies%20Ativos-green?style=for-the-badge&logo=cloudflare" />
-  <img src="https://komarev.com/ghpvc/?username=barbosacoder&style=for-the-badge&color=blueviolet&label=Visualiza%C3%A7%C3%B5es" />
+  <img src="https://img.shields.io/badge/status-Final-blue?style=for-the-badge&logo=php" />
+  <img src="https://img.shields.io/badge/API-Active%20Proxies-green?style=for-the-badge&logo=cloudflare" />
+  <img src="https://komarev.com/ghpvc/?username=barbosacoder&style=for-the-badge&color=blueviolet&label=Views" />
 </p>
 
 <p align="center">
-  <img src="https://static.wikia.nocookie.net/liga-da-zueira-oficial/images/1/19/Conquista.png/revision/latest?cb=20250215155454&path-prefix=pt-br" height="200" alt="conquista">
+  <img src="https://static.wikia.nocookie.net/liga-da-zueira-oficial/images/1/19/Conquista.png/revision/latest?cb=20250215155454&path-prefix=pt-br" height="200" alt="achievement">
 </p>
 
 ---
 
-## 💎 O que é a Versão Premium?
+## 💎 What is the Premium Version?
 
-A versão **Premium** do Discord Checker foi criada para resolver o maior problema da versão básica: **timeouts da API do Discord**.  
-Agora com **proxies inteligentes**, o sistema é capaz de:
-- ⚡ Validar tokens com alta performance
-- 🌐 Evitar bloqueios por IP
-- 🔁 Realizar requisições em massa
-- 🧠 Detectar automaticamente falhas na conexão e repetir a verificação
+The **Premium** version of Discord Checker was created to solve the biggest issue in the basic version: **Discord API timeouts**.  
+Now using **smart proxies**, the system can:
+- ⚡ Validate tokens with high performance
+- 🌐 Avoid IP bans
+- 🔁 Perform massive batch requests
+- 🧠 Automatically detect connection failures and retry checks
 
-> 🔐 Ideal para quem trabalha com grandes volumes de tokens ou bots.
-
----
-
-## 🧠 Funcionalidades
-
-- ✅ Verificação de tokens com retorno direto da API
-- 🔁 Modo contínuo para grandes listas
-- 🌍 Suporte completo a proxies rotativos
-- 📊 Dashboard em tempo real (em desenvolvimento)
-- 📁 Logs organizados por status (válidos / inválidos / timeout)
+> 🔐 Perfect for handling large volumes of tokens or bots.
 
 ---
 
-## 📦 Tecnologias
+## 🧠 Features
+
+- ✅ Token validation with direct API response
+- 🔁 Continuous mode for large lists
+- 🌍 Full support for rotating proxies
+- 📊 Real-time dashboard *(in development)*
+- 📁 Logs organized by status (valid / invalid / timeout)
+
+---
+
+## 📦 Technologies
 
 - PHP 8+
 - cURL
 - Discord API
-- Proxy rotativo (lista automática ou manual)
+- Rotating proxies (automatic or manual list)
 - JSON
 
 ---
@@ -55,20 +55,20 @@ Agora com **proxies inteligentes**, o sistema é capaz de:
 
 ---
 
-## 💬 Contato
+## 💬 Contact
 
-Entre em contato para tirar duvidas sobre acesso antecipado ou feedbacks:
+Reach out if you have any questions about early access or feedback:
 
 - 💬 Discord: `barbosa.dev`
 - ✉️ Email: `999barbosadev@gmail.com`
-- 🌐 portfolio: `https://barbosadev.glitch.me`
+- 🌐 Portfolio: `https://barbosadev.glitch.me`
 - 🐙 GitHub: [@barbosacoder](https://github.com/barbosacoder)
 
 ---
 
-## 📌 Aviso
+## 📌 Disclaimer
 
-Esta versão é voltada para **testes de automação com a API**.  
+This version is intended for **automated testing using the Discord API**.
 
 ---
 
@@ -76,4 +76,4 @@ Esta versão é voltada para **testes de automação com a API**.
   <img src="https://img1.picmix.com/output/stamp/normal/6/4/4/8/1968446_85957.gif" height="120" />
 </p>
 
-<p align="center"><b>Feito com 💗 para você.</b></p>
+<p align="center"><b>Made with 💗 just for you.</b></p>
